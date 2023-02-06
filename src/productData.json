@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "product_name": "Super Product 1",
+      "product_desc": "NguLorem ipsum dolor sit amet, consectetur adipiscing elit.yen",
+      "product_price": 569
+    },{
+        "id": 2,
+        "product_name": "Super Product 34",
+        "product_desc": "NguLorem ipsum dolor sit amet, consectetur adipiscing elit.yen",
+        "product_price": 469
+    },
+    {
+        "id": 3,
+        "product_name": "Super Product 39",
+        "product_desc": "NguLorem ipsum dolor sit amet, consectetur adipiscing elit.yen",
+        "product_price": 1569
+      },
+      {
+        "id": 4,
+        "product_name": "Super Product 56",
+        "product_desc": "NguLorem ipsum dolor sit amet, consectetur adipiscing elit.yen",
+        "product_price": 69
+      },
+      {
+        "id": 5,
+        "product_name": "Super Product 77",
+        "product_desc": "NguLorem ipsum dolor sit amet, consectetur adipiscing elit.yen",
+        "product_price": 679
+      },
+      {
+        "id": 6,
+        "product_name": "Super Product 99",
+        "product_desc": "NguLorem ipsum dolor sit amet, consectetur adipiscing elit.yen",
+        "product_price": 2269
+      }
+]
